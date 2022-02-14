@@ -1,6 +1,6 @@
 ### Hi there I'm Kenan 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kenan805&show_icons=true&theme=chartreuse-dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kenan805&show_icons=true&theme=tokyonight"/>
 
 
 
